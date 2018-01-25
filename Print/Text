@@ -4,9 +4,9 @@
  *Description: This program prints my name.
  */
 
-#include < stdio.h >
-#include < stdlib.h >
+#include <stdio.h>
+#include <stdlib.h>
 
 void main(int argc, char * argv[]) {
-printf("Jared Klahn");
+printf("Jared Klahn & Ian Ghanavati");
 }
